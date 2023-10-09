@@ -15,4 +15,6 @@ cat /proc/mdstat
 #### File Systems #######
 df -hT
 
+df -h
+
 
