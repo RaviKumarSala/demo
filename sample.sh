@@ -12,6 +12,7 @@ timedatectl
 cat /proc/mdstat
 
 
-du -sh
+#### File Systems #######
+df -hT
 
 
