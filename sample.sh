@@ -7,3 +7,11 @@ free -h
 
 ##### time #########
 timedatectl
+
+###### Disk Space ######
+cat /proc/mdstat
+
+
+du -sh
+
+
